@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Expanding Cards]()
+- Live Site URL: [Expanding Cards](https://softpillow20.github.io/Expanding-Cards/)
 
 ## My process
 
